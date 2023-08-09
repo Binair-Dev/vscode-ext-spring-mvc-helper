@@ -1,0 +1,21 @@
+{
+  "name": "spring-mvc-helper",
+  "displayName": "Spring MVC Snippets",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "Binair-Dev",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "java",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
